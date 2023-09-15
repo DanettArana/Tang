@@ -7,7 +7,7 @@ package mx.itson.tang.ui;
 import java.util.Scanner;
 
 /**
- * Determina a que ciudad pertenece cada numero ingresado según el código de área y luego muestra el recuento de números telefónicos para cada ciudad y los números con lada desconocida.
+ * Determina a que ciudad pertenece cada número ingresado según el código de área y luego muestra el recuento de números telefónicos para cada ciudad y los números con lada desconocida.
  * @author Danett Arana
  */
 public class Main {
